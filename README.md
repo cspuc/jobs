@@ -1,23 +1,13 @@
 # [@CSPUC](https://github.com/cspuc) Jobs
 
-### 🤗 Información
+### Información
 
 Bienvenidos al repositorio de trabajos de [@CSPUC](https://github.com/cspuc). El objetivo de este repositorio es centralizar la informacion y agilizar el proceso de busqueda de practicas profesionales y trabajos. Sean libres de hacer uso del README.md principal para compartir, mantener registro y postular a ofertas de trabajos! 
 
-### 📍 Ubicación
-
-Actualmente el repositorio es local para Chile.
+[Archivo Septiembre](septiembre20) • [Contribuir](/#Contribuciones)
 
 
-### 📝 Contribuciones
-
-Sientete libre de contribuir abriendo un [pull request](https://github.com/cspuc/jobs/pulls) que incluya la publicacion en el [README.md](README.md) siguiendo la norma de estilo que se encuentra comentada justo debajo de este parrafo. Para presentar cambios de importantes o pull requests de un gran numero de ofertas porfavor abrir una [issue.](issues)
-
-<!-- Begin Template  -->
-<!-- |[Nombre](link)| rol | `tags`  | Ubicacion | dia/mes | [Postular](link) | -->
-<!-- End Template  -->
-
-# [Septiembre 2020](septiembre20)
+# [Septiembre 2020](septiembre20) 
 
 ## 🎓 Practicas
 
@@ -64,3 +54,11 @@ Significado de `tags` utilizadas en las publicaciones.
 - `business` : La empresa esta en el rubro de negocios.
 - `excell` : Se solicita almenos un dominio de excell.
 - `circular-econ` : El trabajo es relacionado con la economia circular.
+
+# Contribuciones
+
+Sientete libre de contribuir abriendo un [pull request](https://github.com/cspuc/jobs/pulls) que incluya la publicacion en el [README.md](README.md) siguiendo la norma de estilo que se encuentra comentada justo debajo de este parrafo. Para presentar cambios de importantes o pull requests de un gran numero de ofertas porfavor abrir una [issue.](issues)
+
+<!-- Begin Template  -->
+<!-- |[Nombre](link)| rol | `tags`  | Ubicacion | dia/mes | [Postular](link) | -->
+<!-- End Template  -->
