@@ -55,7 +55,7 @@ Significado de `tags` utilizadas en las publicaciones.
 - `excell` : Se solicita almenos un dominio de excell.
 - `circular-econ` : El trabajo es relacionado con la economia circular.
 
-# Contribuciones
+# 👨‍🔧️ Contribuciones
 
 Sientete libre de contribuir abriendo un [pull request](https://github.com/cspuc/jobs/pulls) que incluya la publicacion en el [README.md](README.md) siguiendo la norma de estilo que se encuentra comentada justo debajo de este parrafo. Para presentar cambios de importantes o pull requests de un gran numero de ofertas porfavor abrir una [issue.](issues)
 
