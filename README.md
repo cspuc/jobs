@@ -1,13 +1,13 @@
-# [@CSPUC](https://github.com/cspuc) Jobs
+# 👨‍🔧️ CSPUC Jobs
 
 ### Información
 
 Bienvenidos al repositorio de trabajos de [@CSPUC](https://github.com/cspuc). El objetivo de este repositorio es centralizar la informacion y agilizar el proceso de busqueda de practicas profesionales y trabajos. Sean libres de hacer uso del README.md principal para compartir, mantener registro y postular a ofertas de trabajos! 
 
-[Archivo Septiembre](septiembre20) • [Contribuir](/#Contribuciones)
+[Archivo Septiembre](septiembre20) • [Contribuir](https://github.com/cspuc/jobs#contribuciones)
 
 
-# [Septiembre 2020](septiembre20) 
+# 🌞 Septiembre 2020 
 
 ## 🎓 Practicas
 
