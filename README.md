@@ -36,6 +36,7 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html)| Arquitecto de Software | `4-exp` `finance`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html) |
 |[PoluxHR](poluxhr.com)| Ingeniero de Software | `no-exp` `rubyonrails` `git` `english` `part-time` `full-time` | Remoto | 21/09 | [Contactar](mailto:martin.acuna@poluxhr.com) |
 |[Vestuá](https://www.vestua.com/)| Desarrollador Full-Stack | `0-2-exp` `startup` `full-stack` | Remoto  | 21/09 | [Contactar](mailto:santiago@vestua.com) |
+|[GeoVictoria](https://www.geovictoria.com/)| Tech Manager | `no-exp` `saas` |   | 22/09 | [Contactar](mailto:cquezada@geovictoria.com) |
 
 ## 🏷️ Tags
 
