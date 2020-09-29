@@ -37,6 +37,11 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[PoluxHR](poluxhr.com)| Ingeniero de Software | `no-exp` `rubyonrails` `git` `english` `part-time` `full-time` | Remoto | 21/09 | [Contactar](mailto:martin.acuna@poluxhr.com) |
 |[Vestuá](https://www.vestua.com/)| Desarrollador Full-Stack | `0-2-exp` `startup` `full-stack` | Remoto  | 21/09 | [Contactar](mailto:santiago@vestua.com) |
 |[GeoVictoria](https://www.geovictoria.com/)| Tech Manager | `no-exp` `saas` |   | 22/09 | [Contactar](mailto:cquezada@geovictoria.com) |
+|[TheNotCompany](https://notco.com/)| Software Engineer | `django` `vuejs` `reactjs` |   | 28/09 | [Contactar](mailto:nebil@thenotcompany.com) | 
+|[Abaqus](https://abaqus.cl/)| Software Engineer | `finance` `full-time` |   | 29/09 | [Contactar](mailto:cristobal@abaqus.com) |
+|[Dealing](https://dealingapp.com/)| Software Engineer | `startup` `erp` |   | 29/09 | [Contactar](mailto:coco@dealingapp.com) |
+
+
 
 ## 🏷️ Tags
 
