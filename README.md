@@ -2,12 +2,14 @@
 
 ### Información
 
-Bienvenidos al repositorio de trabajos de [@CSPUC](https://github.com/cspuc). El objetivo de este repositorio es centralizar la información y agilizar el proceso de busqueda de practicas profesionales y trabajos. Sean libres de hacer uso del README.md principal para compartir, mantener registro y postular a ofertas de trabajos! 
+Bienvenidos al repositorio de trabajos de [@CSPUC](https://github.com/cspuc). El objetivo de este repositorio es centralizar la información y agilizar el proceso de busqueda de practicas profesionales y trabajos. Sean libres de hacer uso del [README.md](README.md) principal para compartir, mantener registro y postular a ofertas de trabajos! 
+
+Las ofertas que aparecen en el [README.md](README.md) principal tienen un máximo de antigüedad de un mes, para visitar publicaciones anteriores te invitamos a explorar los archivos de cada mes. 
 
 [Archivo Septiembre](septiembre20) • [Contribuir](https://github.com/cspuc/jobs#contribuciones)
 
 
-# 🌞 Septiembre 2020 
+# 🌞 Octubre 2020 
 
 ## 🎓 Prácticas
 
