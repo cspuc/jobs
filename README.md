@@ -9,7 +9,7 @@ Las ofertas que aparecen en el [README.md](README.md) principal tienen un máxim
 [Archivo Septiembre](septiembre20) • [Contribuir](https://github.com/cspuc/jobs#contribuciones)
 
 
-# 🌞 Octubre 2020 
+# 🌺 Octubre 2020 
 
 ## 🎓 Prácticas
 
@@ -20,6 +20,7 @@ Listado de ofertas disponibles para prácticas vigentes actualmente.
 |[Nestlé](http://www.mercadolaboraluc.cl/empleos/ofertas/4084561/Practica-Ingenieria-Comercial-o-Informatica-para-negocio-Helados-y-Refrigerados.html)| Practica Profesional | `excell`  |  | 18/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4084561/Practica-Ingenieria-Comercial-o-Informatica-para-negocio-Helados-y-Refrigerados.html) |
 |[Nestlé](http://www.mercadolaboraluc.cl/empleos/ofertas/4060300/Practica-Ingenieria-Civil-Informatica--Electronica-o-Similar-para-Customer-Facing.html)| Practica Customer Facing | `excell`  |  | 18/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4060300/Practica-Ingenieria-Civil-Informatica--Electronica-o-Similar-para-Customer-Facing.html) |
 |[Digevo](http://www.mercadolaboraluc.cl/empleos/ofertas/4081901/Practica-Desarrollador-Feria-Ferio.html)| Practica Customer Facing | `angular` `javascript` `nodejs` |  | 18/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4081901/Practica-Desarrollador-Feria-Ferio.html) |
+|[Buda](https://www.buda.com/chile)| Practica Profesional | `rails` `finance` | | 16/09 |[Contactar](mailto:a@buda.com) |
 
 
 
@@ -44,6 +45,7 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[Maletek](https://maletek.cl/)| Dev-Ops Engineer | `startup` `homeoffice` `aws` `es6` `node` |   | 07/10 | [Postular](https://linkedin.com/company/maletek) |
 |[Chipax](https://chipax.com/)| Software Engineer | `startup` `javascript` `php` `aws` |   | 08/10 | [Contactar](mailto:francois@chipax.com) |
 |[UC Christus](https://www.ucchristus.cl/)| Software Engineer | `startup` `android` `kotlin` `part-time` |  Remoto | 13/10 | [Contactar](mailto:mbergoei@ucchristus.cl) |
+|[Buda](https://www.buda.com/chile)| Desarrollador Full-Stack | `rails` `finance` `no-exp` |  | 16/09 | [Postular](https://www.buda.com/trabaja-en-buda/desarrollador-full-stack/) |
 
 
 
