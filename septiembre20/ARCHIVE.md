@@ -1,8 +1,17 @@
-# [Septiembre 2020 Archive](septiembre20)
+# 👨‍🔧️ CSPUC Jobs
 
-## 🎓 Practicas
+### Información
 
-Listado de ofertas disponibles para practicas vigentes actualmente.
+Bienvenidos al repositorio de trabajos de [@CSPUC](https://github.com/cspuc). El objetivo de este repositorio es centralizar la información y agilizar el proceso de busqueda de practicas profesionales y trabajos. Sean libres de hacer uso del README.md principal para compartir, mantener registro y postular a ofertas de trabajos! 
+
+[Archivo Septiembre](septiembre20) • [Contribuir](https://github.com/cspuc/jobs#contribuciones)
+
+
+# 🌞 Septiembre 2020 
+
+## 🎓 Prácticas
+
+Listado de ofertas disponibles para prácticas vigentes actualmente.
 
 | Empresa  |  Rol |  Tags | Ubicacion | Apertura | Link |
 |-|-|-|-|-|-|
@@ -12,6 +21,7 @@ Listado de ofertas disponibles para practicas vigentes actualmente.
 |[Sodimac](http://www.mercadolaboraluc.cl/empleos/ofertas/4072212/PRACTICA-SOPORTE-OPERACIONAL--LOGISTICA-.html)| Practica Soporte Operacional | `3-month` | Maipu | 27/08 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4072212/PRACTICA-SOPORTE-OPERACIONAL--LOGISTICA-.html) |
 |Reconnect| Practica Profesional | `external` `circular-econ` `part-time` `full-time` |  | 08/08 | [Contactar](mailto:antonio@reconnect.cl) |
 |Bundle| Practica Profesional | `startup` |  | 08/08 | [Postular](ajamis.typeform.com/to/qhp6ei2T) |
+
 
 
 ## 💼 Ofertas
@@ -24,7 +34,14 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4084406/Programador-VisualStudio---NET.html)| Programador VisualStudio . NET | `0-2-exp`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4080008/Product-Owner.html) |
 |[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html)| Fullstack Developer Java | `2-4-exp`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html) |
 |[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html)| Arquitecto de Software | `4-exp` `finance`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html) |
-|[PoluxHR](poluxhr.com)| Ingeniero de Software | `no'exp` `rubyonrails` `git` `english` `part-time` `full-time` | Remoto | 21/09 | [Contactar](mailto:martin.acuna@poluxhr.com) |
+|[PoluxHR](poluxhr.com)| Ingeniero de Software | `no-exp` `rubyonrails` `git` `english` `part-time` `full-time` | Remoto | 21/09 | [Contactar](mailto:martin.acuna@poluxhr.com) |
+|[Vestuá](https://www.vestua.com/)| Desarrollador Full-Stack | `0-2-exp` `startup` `full-stack` | Remoto  | 21/09 | [Contactar](mailto:santiago@vestua.com) |
+|[GeoVictoria](https://www.geovictoria.com/)| Tech Manager | `no-exp` `saas` |   | 22/09 | [Contactar](mailto:cquezada@geovictoria.com) |
+|[TheNotCompany](https://notco.com/)| Software Engineer | `django` `vuejs` `reactjs` |   | 28/09 | [Contactar](mailto:nebil@thenotcompany.com) | 
+|[Abaqus](https://abaqus.cl/)| Software Engineer | `finance` `full-time` |   | 29/09 | [Contactar](mailto:cristobal@abaqus.com) |
+|[Dealing](https://dealingapp.com/)| Software Engineer | `startup` `erp` |   | 29/09 | [Contactar](mailto:coco@dealingapp.com) |
+
+
 
 ## 🏷️ Tags
 
@@ -45,3 +62,11 @@ Significado de `tags` utilizadas en las publicaciones.
 - `business` : La empresa esta en el rubro de negocios.
 - `excell` : Se solicita almenos un dominio de excell.
 - `circular-econ` : El trabajo es relacionado con la economia circular.
+
+# 👨‍🔧️ Contribuciones
+
+Sientete libre de contribuir abriendo un [pull request](https://github.com/cspuc/jobs/pulls) que incluya la publicacion en el [README.md](README.md) siguiendo la norma de estilo que se encuentra comentada justo debajo de este parrafo. Para presentar cambios de importantes o pull requests de un gran numero de ofertas porfavor abrir una [issue.](issues)
+
+<!-- Begin Template  -->
+<!-- |[Nombre](link)| rol | `tags`  | Ubicacion | dia/mes | [Postular](link) | -->
+<!-- End Template  -->

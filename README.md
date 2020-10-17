@@ -2,12 +2,14 @@
 
 ### Información
 
-Bienvenidos al repositorio de trabajos de [@CSPUC](https://github.com/cspuc). El objetivo de este repositorio es centralizar la información y agilizar el proceso de busqueda de practicas profesionales y trabajos. Sean libres de hacer uso del README.md principal para compartir, mantener registro y postular a ofertas de trabajos! 
+Bienvenidos al repositorio de trabajos de [@CSPUC](https://github.com/cspuc). El objetivo de este repositorio es centralizar la información y agilizar el proceso de busqueda de practicas profesionales y trabajos. Sean libres de hacer uso del [README.md](README.md) principal para compartir, mantener registro y postular a ofertas de trabajos! 
+
+Las ofertas que aparecen en el [README.md](README.md) principal tienen un máximo de antigüedad de un mes, para visitar publicaciones anteriores te invitamos a explorar los archivos de cada mes. 
 
 [Archivo Septiembre](septiembre20) • [Contribuir](https://github.com/cspuc/jobs#contribuciones)
 
 
-# 🌞 Septiembre 2020 
+# 🌞 Octubre 2020 
 
 ## 🎓 Prácticas
 
@@ -18,9 +20,7 @@ Listado de ofertas disponibles para prácticas vigentes actualmente.
 |[Nestlé](http://www.mercadolaboraluc.cl/empleos/ofertas/4084561/Practica-Ingenieria-Comercial-o-Informatica-para-negocio-Helados-y-Refrigerados.html)| Practica Profesional | `excell`  |  | 18/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4084561/Practica-Ingenieria-Comercial-o-Informatica-para-negocio-Helados-y-Refrigerados.html) |
 |[Nestlé](http://www.mercadolaboraluc.cl/empleos/ofertas/4060300/Practica-Ingenieria-Civil-Informatica--Electronica-o-Similar-para-Customer-Facing.html)| Practica Customer Facing | `excell`  |  | 18/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4060300/Practica-Ingenieria-Civil-Informatica--Electronica-o-Similar-para-Customer-Facing.html) |
 |[Digevo](http://www.mercadolaboraluc.cl/empleos/ofertas/4081901/Practica-Desarrollador-Feria-Ferio.html)| Practica Customer Facing | `angular` `javascript` `nodejs` |  | 18/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4081901/Practica-Desarrollador-Feria-Ferio.html) |
-|[Sodimac](http://www.mercadolaboraluc.cl/empleos/ofertas/4072212/PRACTICA-SOPORTE-OPERACIONAL--LOGISTICA-.html)| Practica Soporte Operacional | `3-month` | Maipu | 27/08 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4072212/PRACTICA-SOPORTE-OPERACIONAL--LOGISTICA-.html) |
-|Reconnect| Practica Profesional | `external` `circular-econ` `part-time` `full-time` |  | 08/08 | [Contactar](mailto:antonio@reconnect.cl) |
-|Bundle| Practica Profesional | `startup` |  | 08/08 | [Postular](ajamis.typeform.com/to/qhp6ei2T) |
+
 
 
 
@@ -30,12 +30,22 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 
 | Empresa  |  Rol |  Tags | Ubicacion | Apertura | Link |
 |-|-|-|-|-|-|
-|[Nectia](http://www.mercadolaboraluc.cl/empleos/ofertas/4080008/Product-Owner.html)| Product Owner | `3-exp` `dress-code` `business`  | Huechuraba | 07/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4080008/Product-Owner.html) |
 |[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4084406/Programador-VisualStudio---NET.html)| Programador VisualStudio . NET | `0-2-exp`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4080008/Product-Owner.html) |
 |[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html)| Fullstack Developer Java | `2-4-exp`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html) |
 |[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html)| Arquitecto de Software | `4-exp` `finance`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html) |
 |[PoluxHR](poluxhr.com)| Ingeniero de Software | `no-exp` `rubyonrails` `git` `english` `part-time` `full-time` | Remoto | 21/09 | [Contactar](mailto:martin.acuna@poluxhr.com) |
-|[Vestuá](vestua.com)| Desarrollador Full-Stack | `0-2-exp` `startup` `full-stack` | Remoto  | 21/09 | [Contactar](mailto:santiago@vestua.com) |
+|[Vestuá](https://www.vestua.com/)| Desarrollador Full-Stack | `0-2-exp` `startup` `full-stack` | Remoto  | 21/09 | [Contactar](mailto:santiago@vestua.com) |
+|[GeoVictoria](https://www.geovictoria.com/)| Tech Manager | `no-exp` `saas` |   | 22/09 | [Contactar](mailto:cquezada@geovictoria.com) |
+|[TheNotCompany](https://notco.com/)| Software Engineer | `django` `vuejs` `reactjs` |   | 28/09 | [Contactar](mailto:nebil@thenotcompany.com) | 
+|[Abaqus](https://abaqus.cl/)| Software Engineer | `finance` `full-time` |   | 29/09 | [Contactar](mailto:cristobal@abaqus.com) |
+|[Dealing](https://dealingapp.com/)| Software Engineer | `startup` `erp` |   | 29/09 | [Contactar](mailto:coco@dealingapp.com) |
+|[Toku](https://toku.cl/)| Co-Founder Tecnico | `startup` `saas` |   | 06/10 | [Contactar](mailto:francisca@toku.cl) |
+|[Fintoc](https://fintoc.com/)| Software Engineer | `startup` `finance` |   | 06/10 | [Postular](https://blog.fintoc.com/la-oportunidad/) |
+|[Maletek](https://maletek.cl/)| Dev-Ops Engineer | `startup` `homeoffice` `aws` `es6` `node` |   | 07/10 | [Postular](https://linkedin.com/company/maletek) |
+|[Chipax](https://chipax.com/)| Software Engineer | `startup` `javascript` `php` `aws` |   | 08/10 | [Contactar](mailto:francois@chipax.com) |
+|[UC Christus](https://www.ucchristus.cl/)| Software Engineer | `startup` `android` `kotlin` `part-time` |  Remoto | 13/10 | [Contactar](mailto:mbergoei@ucchristus.cl) |
+
+
 
 ## 🏷️ Tags
 
