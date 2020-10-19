@@ -17,10 +17,8 @@ Listado de ofertas disponibles para prácticas vigentes actualmente.
 
 | Empresa  |  Rol |  Tags | Ubicacion | Apertura | Link |
 |-|-|-|-|-|-|
-|[Nestlé](http://www.mercadolaboraluc.cl/empleos/ofertas/4084561/Practica-Ingenieria-Comercial-o-Informatica-para-negocio-Helados-y-Refrigerados.html)| Practica Profesional | `excell`  |  | 18/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4084561/Practica-Ingenieria-Comercial-o-Informatica-para-negocio-Helados-y-Refrigerados.html) |
-|[Nestlé](http://www.mercadolaboraluc.cl/empleos/ofertas/4060300/Practica-Ingenieria-Civil-Informatica--Electronica-o-Similar-para-Customer-Facing.html)| Practica Customer Facing | `excell`  |  | 18/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4060300/Practica-Ingenieria-Civil-Informatica--Electronica-o-Similar-para-Customer-Facing.html) |
-|[Digevo](http://www.mercadolaboraluc.cl/empleos/ofertas/4081901/Practica-Desarrollador-Feria-Ferio.html)| Practica Customer Facing | `angular` `javascript` `nodejs` |  | 18/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4081901/Practica-Desarrollador-Feria-Ferio.html) |
 |[Buda](https://www.buda.com/chile)| Practica Profesional | `rails` `finance` | | 16/09 |[Contactar](mailto:a@buda.com) |
+|[Platanus](https://platan.us/)| Trainee |  | | 19/10 |[Postular](https://platan.us/jobs) |
 
 
 
