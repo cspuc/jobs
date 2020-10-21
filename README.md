@@ -29,11 +29,6 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 
 | Empresa  |  Rol |  Tags | Ubicacion | Apertura | Link |
 |-|-|-|-|-|-|
-|[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4084406/Programador-VisualStudio---NET.html)| Programador VisualStudio . NET | `0-2-exp`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4080008/Product-Owner.html) |
-|[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html)| Fullstack Developer Java | `2-4-exp`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html) |
-|[Kibernum](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html)| Arquitecto de Software | `4-exp` `finance`  | Remoto | 21/09 | [Postular](http://www.mercadolaboraluc.cl/empleos/ofertas/4085016/FULLSTACK-DEVELOPER-JAVA.html) |
-|[PoluxHR](poluxhr.com)| Ingeniero de Software | `no-exp` `rubyonrails` `git` `english` `part-time` `full-time` | Remoto | 21/09 | [Contactar](mailto:martin.acuna@poluxhr.com) |
-|[Vestuá](https://www.vestua.com/)| Desarrollador Full-Stack | `0-2-exp` `startup` `full-stack` | Remoto  | 21/09 | [Contactar](mailto:santiago@vestua.com) |
 |[GeoVictoria](https://www.geovictoria.com/)| Tech Manager | `no-exp` `saas` |   | 22/09 | [Contactar](mailto:cquezada@geovictoria.com) |
 |[TheNotCompany](https://notco.com/)| Software Engineer | `django` `vuejs` `reactjs` |   | 28/09 | [Contactar](mailto:nebil@thenotcompany.com) | 
 |[Abaqus](https://abaqus.cl/)| Software Engineer | `finance` `full-time` |   | 29/09 | [Contactar](mailto:cristobal@abaqus.com) |
