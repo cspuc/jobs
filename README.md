@@ -19,7 +19,7 @@ Listado de ofertas disponibles para prácticas vigentes actualmente.
 |-|-|-|-|-|-|
 |[Buda](https://www.buda.com/chile)| Practica Profesional | `rails` `finance` | | 16/09 |[Contactar](mailto:a@buda.com) |
 |[Platanus](https://platan.us/)| Trainee |  | | 19/10 |[Postular](https://platan.us/jobs) |
-
+|[StageOnVR](https://stageonvr.cl/)| Practica Profesional | `external` `python` `reactnative`  |   | 21/10 | [Contactar](mailto:nrburgos@stageonvr.cl) |
 
 
 
@@ -39,6 +39,8 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[Chipax](https://chipax.com/)| Software Engineer | `startup` `javascript` `php` `aws` |   | 08/10 | [Contactar](mailto:francois@chipax.com) |
 |[UC Christus](https://www.ucchristus.cl/)| Software Engineer | `startup` `android` `kotlin` `part-time` |  Remoto | 13/10 | [Contactar](mailto:mbergoei@ucchristus.cl) |
 |[Buda](https://www.buda.com/chile)| Desarrollador Full-Stack | `rails` `finance` `no-exp` |  | 16/09 | [Postular](https://www.buda.com/trabaja-en-buda/desarrollador-full-stack/) |
+|[Dealing](https://dealingapp.com/)| Frontend Engineer | `startup` `b2b` `react`  |   | 19/10 | [Contactar](mailto:coco@dealingapp.com) |
+|[DSY](https://dsy.cl/)| Desarrollador | `factory` `full-time` `part-time`  |   | 20/10 | [Contactar](mailto:matias.castro+postulacion@dsy.cl) |
 
 
 
