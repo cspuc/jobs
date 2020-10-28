@@ -43,6 +43,8 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[PoluxHR](poluxhr.com)| Ingeniero de Software | `no-exp` `rubyonrails` `git` `english` `part-time` `full-time` | Remoto | 22/10 | [Contactar](mailto:martin.acuna@poluxhr.com) |
 |[ZeroFox](https://zerofox.com/)|  Software Engineer | `remote` `python` `golang` `javascript` | Remoto | 22/10 | [Contactar](mailto:federicovidela@protonmail.com) |
 |[ACHS](https://achs.cl/)|  | `javascript` `node` `react`  |   | 27/10 | [Contactar](mailto:tawulflm@achs.cl) |
+|[MentorPro](https://mentorpro.cl/)| Software Engineer | `edtech` `startup` `reactnative` `corfo`  |   | 28/10 | [Contactar](mailto:cecilia@mentorpro.cl) |
+|[Ordename](https://ordename.cl/)| Software Engineer | `reactjs` `reactnative` `startup`  |   | 28/10 | [Contactar](mailto:bceppi@ordename.cl) |
 
 
 
