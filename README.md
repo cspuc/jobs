@@ -20,6 +20,7 @@ Listado de ofertas disponibles para prácticas vigentes actualmente.
 |[Buda](https://www.buda.com/chile)| Practica Profesional | `rails` `finance` | | 16/10 |[Contactar](mailto:a@buda.com) |
 |[Platanus](https://platan.us/)| Trainee |  | | 19/10 |[Postular](https://platan.us/jobs) |
 |[StageOnVR](https://stageonvr.cl/)| Practica Profesional | `external` `python` `reactnative`  |   | 21/10 | [Contactar](mailto:nrburgos@stageonvr.cl) |
+|[Radar](https://radarescolar.cl/)| Practica Profesional | `ruby` `python` `javascript`  |   | 26/10 | [Postular](https://www.getonbrd.com/empleos/programacion/full-stack-developer-radar-escolar-santiago) |
 
 
 
@@ -42,6 +43,8 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[Dealing](https://dealingapp.com/)| Frontend Engineer | `startup` `b2b` `react`  |   | 19/10 | [Contactar](mailto:coco@dealingapp.com) |
 |[DSY](https://dsy.cl/)| Desarrollador | `factory` `full-time` `part-time`  |   | 20/10 | [Contactar](mailto:matias.castro+postulacion@dsy.cl) |
 |[PoluxHR](poluxhr.com)| Ingeniero de Software | `no-exp` `rubyonrails` `git` `english` `part-time` `full-time` | Remoto | 22/10 | [Contactar](mailto:martin.acuna@poluxhr.com) |
+|[ZeroFox](https://zerofox.com/)|  Software Engineer | `remote` `python` `golang` `javascript` | Remoto | 22/10 | [Contactar](mailto:federicovidela@protonmail.com) |
+|[ACHS](https://achs.cl/)|  | `javascript` `node` `react`  |   | 27/10 | [Contactar](mailto:tawulflm@achs.cl) |
 
 
 
