@@ -21,6 +21,7 @@ Listado de ofertas disponibles para prácticas vigentes actualmente.
 |[Platanus](https://platan.us/)| Trainee |  | | 19/10 |[Postular](https://platan.us/jobs) |
 |[StageOnVR](https://stageonvr.cl/)| Practica Profesional | `external` `python` `reactnative`  |   | 21/10 | [Contactar](mailto:nrburgos@stageonvr.cl) |
 |[Radar](https://radarescolar.cl/)| Practica Profesional | `ruby` `python` `javascript`  |   | 26/10 | [Postular](https://www.getonbrd.com/empleos/programacion/full-stack-developer-radar-escolar-santiago) |
+|[Snow Consulting](https://snowconsulting.cl/)| Practica Profesional | `ai` `bigdata` `startup` |   | 30/10 | [Contactar](mailto:contacto@snowconsulting.cl) |
 
 
 
@@ -30,8 +31,6 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 
 | Empresa  |  Rol |  Tags | Ubicacion | Apertura | Link |
 |-|-|-|-|-|-|
-|[Abaqus](https://abaqus.cl/)| Software Engineer | `finance` `full-time` |   | 29/09 | [Contactar](mailto:cristobal@abaqus.com) |
-|[Dealing](https://dealingapp.com/)| Software Engineer | `startup` `erp` |   | 29/09 | [Contactar](mailto:coco@dealingapp.com) |
 |[Toku](https://toku.cl/)| Co-Founder Tecnico | `startup` `saas` |   | 06/10 | [Contactar](mailto:francisca@toku.cl) |
 |[Fintoc](https://fintoc.com/)| Software Engineer | `startup` `finance` |   | 06/10 | [Postular](https://blog.fintoc.com/la-oportunidad/) |
 |[Maletek](https://maletek.cl/)| Dev-Ops Engineer | `startup` `homeoffice` `aws` `es6` `node` |   | 07/10 | [Postular](https://linkedin.com/company/maletek) |
@@ -45,6 +44,7 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[ACHS](https://achs.cl/)|  | `javascript` `node` `react`  |   | 27/10 | [Contactar](mailto:tawulflm@achs.cl) |
 |[MentorPro](https://mentorpro.cl/)| Software Engineer | `edtech` `startup` `reactnative` `corfo`  |   | 28/10 | [Contactar](mailto:cecilia@mentorpro.cl) |
 |[Ordename](https://ordename.cl/)| Software Engineer | `reactjs` `reactnative` `startup`  |   | 28/10 | [Contactar](mailto:bceppi@ordename.cl) |
+|[KPMG](https://home.kpmg/)| Desarrollador Fullstack | `azure` `javascript` `python`  |   | 30/10 | [Contactar](https://t.me/vjaguilera) |
 
 
 
