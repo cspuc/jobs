@@ -9,7 +9,7 @@ Las ofertas que aparecen en el [README.md](README.md) principal tienen un máxim
 [Archivo Septiembre](septiembre20) • [Contribuir](https://github.com/cspuc/jobs#contribuciones)
 
 
-# 🌺 Octubre 2020 
+# 💐 Noviembre 2020 
 
 ## 🎓 Prácticas
 
