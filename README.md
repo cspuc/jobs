@@ -45,6 +45,7 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[MentorPro](https://mentorpro.cl/)| Software Engineer | `edtech` `startup` `reactnative` `corfo`  |   | 28/10 | [Contactar](mailto:cecilia@mentorpro.cl) |
 |[Ordename](https://ordename.cl/)| Software Engineer | `reactjs` `reactnative` `startup`  |   | 28/10 | [Contactar](mailto:bceppi@ordename.cl) |
 |[KPMG](https://home.kpmg/)| Desarrollador Fullstack | `azure` `javascript` `python`  |   | 30/10 | [Contactar](https://t.me/vjaguilera) |
+|[Houm](https://houm.com/)| Desarrollador Fullstack | `python` `django` `react` `aws`  |   | 31/10 | [Contactar](mailto:talent@houm.com) |
 
 
 
