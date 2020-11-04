@@ -22,6 +22,8 @@ Listado de ofertas disponibles para prácticas vigentes actualmente.
 |[StageOnVR](https://stageonvr.cl/)| Practica Profesional | `external` `python` `reactnative`  |   | 21/10 | [Contactar](mailto:nrburgos@stageonvr.cl) |
 |[Radar](https://radarescolar.cl/)| Practica Profesional | `ruby` `python` `javascript`  |   | 26/10 | [Postular](https://www.getonbrd.com/empleos/programacion/full-stack-developer-radar-escolar-santiago) |
 |[Snow Consulting](https://snowconsulting.cl/)| Practica Profesional | `ai` `bigdata` `startup` |   | 30/10 | [Contactar](mailto:contacto@snowconsulting.cl) |
+|[Abstract](https://abstract.cl/)| Practica Profesional |  `startup` |   | 02/11 | [Contactar](mailto:mvaldivia@abstract.cl) |
+|[Vestua](https://vestua.com/)| Practica Profesional |  `startup` |   | 03/11 | [Contactar](mailto:santiago@vestua.com) |
 
 
 
@@ -46,7 +48,7 @@ Listado de ofertas disponibles para tiempo completo o part-time vigentes actualm
 |[Ordename](https://ordename.cl/)| Software Engineer | `reactjs` `reactnative` `startup`  |   | 28/10 | [Contactar](mailto:bceppi@ordename.cl) |
 |[KPMG](https://home.kpmg/)| Desarrollador Fullstack | `azure` `javascript` `python`  |   | 30/10 | [Contactar](https://t.me/vjaguilera) |
 |[Houm](https://houm.com/)| Desarrollador Fullstack | `python` `django` `react` `aws`  |   | 31/10 | [Contactar](mailto:talent@houm.com) |
-
+|[Vestua](https://vestua.com/)| Desarrollador Fullstack |  `startup` |   | 03/11 | [Contactar](mailto:santiago@vestua.com) |
 
 
 ## 🏷️ Tags
